@@ -61,7 +61,7 @@ This results in 900 question-answer pairs (300 videos × 3 QA pairs per video), 
 ## 🔍 A New Perspective on VideoQA 
 
 ### Videos as a Knowledge Source
-Traditional VideoQA benchmarks focus primarily on scene-based understanding, evaluating how well models interpret visual content. Video-MMMU takes a different approach—it is the first to treat videos as a **source of knowledge**, assessing how effectively large multimodal models (LMMs) acquire and apply information from educational videos.  
+Traditional VideoQA benchmarks focus primarily on evaluating how well models interpret visual content. Video-MMMU is the first to treat videos as a **source of knowledge**, assessing how effectively LMMs acquire knowledge from educational videos.  
 
 ### Measuring Knowledge Gain: The Δknowledge Metric
 A key novelty of Video-MMMU is that it evaluates not just a model’s absolute accuracy but also its **delta accuracy**—the improvement in performance after learning from a video. A model may initially fail to solve an exam question, but we give the model a video where a human could learn to solve the question by watching the video. Video-MMMU tests how well LMMs **improve their performance** after watching the videos. Video-MMMU introduces **Δknowledge** to quantify knowledge gain by evaluating a model’s improvement on practice exam questions (Adaptation track) after watching a video.
