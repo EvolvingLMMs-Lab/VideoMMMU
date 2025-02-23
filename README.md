@@ -68,7 +68,7 @@ A key novelty of Video-MMMU is that it evaluates not just a model’s absolute a
 
 
 ## 🛠️ Evaluation Pipeline
-The evaluation of VideoMMMU is integrated into [LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval/tree/main). Below is a detailed instruction of the evaluation.
+The evaluation of VideoMMMU is integrated into [LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval/tree/main). The detailed instructions of the evaluation are shown as follows.
 
 ### Installation
 
@@ -148,7 +148,7 @@ accelerate launch --num_processes=1 --main_process_port 12345 -m lmms_eval \
 
 **Evaluate the question_only track of VideoMMMU -- Knowledge Acquisition Experiment (∆knowledge)**
 
-The "question_only" track consists of 2-second videos that contain the image associated with the Adaptation Track question. This is the baseline for ∆knowledge.
+The "question_only" track consists of 2-second videos that contain only the image associated with the Adaptation Track question. This is the baseline for ∆knowledge.
 
 To evaluate this setting, you can use the following command:
 
