@@ -14,7 +14,7 @@
 
 ## 🔥 News
 - [2025-2] 🎉🎉 We update Video-MMMU leaderboard to include [Qwen-2.5-VL-72B](https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct), [Qwen-2.5-VL-7B](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct),  [mPLUG-Owl3-7B](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl3), [InternVideo2.5-Chat-8B](https://huggingface.co/OpenGVLab/InternVideo2_5_Chat_8B), [VideoChat-Flash-7B@448](https://huggingface.co/OpenGVLab/VideoChat-Flash-Qwen2-7B_res448). 
-- [2025-1] 🎉🎉 We introduce [VideoMMMU](https://videommmu.github.io/), a massive, multi-modal, multi-disciplinary video benchmark that evaluates the **knowledge acquisition capability** from educational videos.
+- [2025-1] 🎉🎉 We introduce [VideoMMMU](https://videommmu.github.io/), a multi-modal, multi-disciplinary video benchmark that evaluates the **knowledge acquisition capability** from educational videos.
 
 
 
@@ -34,7 +34,7 @@ Each video is accompanied by 3 QA pairs, designed to evaluate video-based learni
 - **Comprehension** – Understanding underlying concepts.  
 - **Adaptation** – Applying knowledge to new scenarios.  
 
-This results in 900 question-answer pairs (300 videos × 3 QA pairs per video), systematically measuring a model's ability to acquire and apply knowledge from videos.  
+This results in 900 question-answer pairs (300 videos × 3 QA pairs per video), systematically measuring a model's ability to acquire and apply knowledge from educational videos.  
  
 
 ## ❓QA Design
