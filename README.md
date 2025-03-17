@@ -20,7 +20,7 @@
 
 ## 🧠 Overview  
 <div align="center">
-    <img src="./assets/figure_1.png" alt="Figure 1" width="75%">
+    <img src="./assets/figure1_0308.png" alt="Figure 1" width="80%">
 </div>
 
 Video-MMMU is the first benchmark to assess knowledge acquisition from educational videos, evaluating how well LMMs learn new knowledge from videos and apply what they learn in practice.
@@ -55,7 +55,7 @@ This results in 900 question-answer pairs (300 videos × 3 QA pairs per video), 
 - Problem-Solving Strategy Adaptation: The **Engineering** category (bottom right).
 
 <div align="center">
-    <img src="./assets/figure_3.png" alt="Figure 3" width="75%">
+    <img src="./assets/figure3_0308.png" alt="Figure 3" width="75%">
 </div>
 
 ## 🔍 A New Perspective on VideoQA 
