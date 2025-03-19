@@ -64,7 +64,7 @@ This results in 900 question-answer pairs (300 videos × 3 QA pairs per video), 
 Traditional VideoQA benchmarks focus primarily on evaluating how well models interpret visual content. Video-MMMU is the first to treat videos as a **source of knowledge**, assessing how effectively LMMs acquire knowledge from educational videos.  
 
 ### Measuring Knowledge Gain: The Δknowledge Metric
-A key novelty of Video-MMMU is that it evaluates not just a model’s absolute accuracy but also its **delta accuracy**—the improvement in performance after learning from a video. A model may initially fail to solve an exam question, but we give the model a video where a human could learn to solve the question by watching the video. Video-MMMU tests how well LMMs **improve their performance** after watching the videos. Video-MMMU introduces **Δknowledge** to quantify the model's learning gain on the Adaptation track questions. **Δknowledge** is defined as the normalized performance gain:
+A key novelty of Video-MMMU is that it evaluates not just a model’s absolute accuracy but also its **delta accuracy**—the improvement in performance after learning from a video. A model may initially fail to solve an exam question, but we give the model a video where a human could learn to solve the question by watching this video. Video-MMMU evaluates how well LMMs **improve their performance** after watching the relevant video. Video-MMMU introduces **Δknowledge** to quantify the model's learning gain on the Adaptation track questions. **Δknowledge** is defined as the normalized performance gain:
 
 ```math
 $$
