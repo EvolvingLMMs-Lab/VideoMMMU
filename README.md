@@ -184,9 +184,7 @@ $$
 
 To ensure compatibility with [LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval), the image associated with the Adaptation Track question has been appended in the last frame of the video. A prompt has also been added to inform the model that the question image is located in this final frame.
 
-As a result, you can execute the commands from the previous section without manually interleaving the image and video.
-
-If you prefer an interleaved format, you can manually insert the image (either the last frame of the video or the ```image 1``` entry from the HF dataset) into the designated placeholder ```<image 1>```.
+If you prefer an interleaved format, you can insert the image (either the last frame of the video or the ```image 1``` entry from the HF dataset) into the designated placeholder ```<image 1>```.
 
 
 ## 🎓 Video-MMMU Leaderboard
