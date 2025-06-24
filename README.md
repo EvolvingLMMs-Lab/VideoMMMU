@@ -195,8 +195,8 @@ We evaluate various open-source and proprietary LMMs. The table below provides a
 | Model | Overall \| Δknowledge | Perception | Comprehension | Adaptation |
 |---|---|---|---|---|
 | Human Expert | 74.44 \| 🟢 +33.1 | 84.33 | 78.67 | 60.33 |
-| [Kimi-k1.6-preview-20250308](https://github.com/MoonshotAI/Kimi-k1.5) | 75.67 \| 🟢 +5.0 | 85.33 | 76.67 | 68.00 |
 | [Claude-3.5-Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet) | 65.78 \| 🟢 +11.4 | 72.00 | 69.67 | 55.67 |
+| [Kimi-VL-A3B-Thinking-2506]([https://github.com/MoonshotAI/Kimi-k1.5](https://huggingface.co/moonshotai/Kimi-VL-A3B-Thinking-2506)) | 65.22 \| 🟢 +3.5 | 75.00 | 66.33 | 54.33 |
 | [GPT-4o](https://openai.com/index/hello-gpt-4o/) | 61.22 \| 🟢 +15.6 | 66.00 | 62.00 | 55.67 |
 | [Qwen-2.5-VL-72B](https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct) | 60.22 \| 🟢 +9.7 | 69.33 | 61.00 | 50.33 |
 | [GLM-4V-PLUS-0111](https://www.bigmodel.cn/dev/api/normal-model/glm-4v) | 57.56 \| 🔴 -1.7 | 77.33 | 53.33 | 42.00 |
