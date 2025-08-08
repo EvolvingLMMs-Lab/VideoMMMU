@@ -194,6 +194,9 @@ We evaluate various open-source and proprietary LMMs. The table below provides a
 
 | Model | Overall \| Δknowledge | Perception | Comprehension | Adaptation |
 |---|---|---|---|---|
+| [GPT-5-thinking](https://openai.com/index/introducing-gpt-5/) | 84.6 \| -- | -- | -- | -- |
+| [Gemini-2.5-Pro](https://deepmind.google/models/gemini/pro/) | 83.6 \| -- | -- | -- | -- |
+| [OpenAI O3](https://openai.com/index/introducing-o3-and-o4-mini/) | 83.3 \| -- | -- | -- | -- |
 | [Claude-3.5-Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet) | 65.78 \| 🟢 +11.4 | 72.00 | 69.67 | 55.67 |
 | [Kimi-VL-A3B-Thinking-2506](https://huggingface.co/moonshotai/Kimi-VL-A3B-Thinking-2506) | 65.22 \| 🟢 +3.5 | 75.00 | 66.33 | 54.33 |
 | [GPT-4o](https://openai.com/index/hello-gpt-4o/) | 61.22 \| 🟢 +15.6 | 66.00 | 62.00 | 55.67 |
