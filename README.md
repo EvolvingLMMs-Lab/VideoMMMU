@@ -204,7 +204,7 @@ We evaluate various open-source and proprietary LMMs. The table below provides a
 | [Qwen-2.5-VL-72B](https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct) | 60.22 \| 🟢 +9.7 | 69.33 | 61.00 | 50.33 |
 | [GLM-4V-PLUS-0111](https://www.bigmodel.cn/dev/api/normal-model/glm-4v) | 57.56 \| 🔴 -1.7 | 77.33 | 53.33 | 42.00 |
 | [Gemini 1.5 Pro](https://deepmind.google/technologies/gemini/pro/) | 53.89 \| 🟢 +8.7 | 59.00 | 53.33 | 49.33 |
-| [Video-RTS](https://arxiv.org/abs/2507.06485) | 52.7 \| -- | -- | -- | -- |
+| [Video-RTS](https://arxiv.org/abs/2507.06485) | 52.70 \| -- | -- | -- | -- |
 | [Aria](https://rhymes.ai/blog-details/aria-first-open-multimodal-native-moe-model) | 50.78 \| 🟢 +3.2 | 65.67 | 46.67 | 40.00 |
 | [Gemini 1.5 Flash](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf) | 49.78 \| 🔴 -3.3 | 57.33 | 49.00 | 43.00 |
 | [LLaVA-Video-72B](https://huggingface.co/lmms-lab/LLaVA-Video-72B-Qwen2) | 49.67 \| 🟢 +7.1 | 59.67 | 46.00 | 43.33 |
